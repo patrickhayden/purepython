@@ -1,0 +1,1 @@
+Collection of scripts for interfacing with Pure Storage FlashArray and Pure1.  The FlashArray scripts all depend on the existance of a localuser account with an API key.  That key is copied to a local file api.txt which is used to authenticate for script execution.  The Pure1 scripts depend on key exchange described in <filename.md>
